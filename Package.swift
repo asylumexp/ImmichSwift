@@ -30,4 +30,6 @@ let package = Package(
         ),
     ],
     swiftLanguageModes: [.v6]
+    url: "https://github.com/asylyumexp/ImmichSwift.swift",
+    from: "1.0.0"
 )
