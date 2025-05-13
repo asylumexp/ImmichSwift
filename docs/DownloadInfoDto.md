@@ -1,0 +1,13 @@
+# DownloadInfoDto
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**albumId** | **UUID** |  | [optional] 
+**archiveSize** | **Int** |  | [optional] 
+**assetIds** | **[UUID]** |  | [optional] 
+**userId** | **UUID** |  | [optional] 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+
